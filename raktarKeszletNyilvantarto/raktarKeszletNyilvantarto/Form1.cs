@@ -15,7 +15,7 @@ namespace raktarKeszletNyilvantarto
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("hello");
+            MessageBox.Show("Hi");
         }
     }
 }
